@@ -1,3 +1,3 @@
-module github.com/gen2brain/malgo
+module github.com/tphakala/malgo
 
-go 1.17
+go 1.24
